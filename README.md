@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a subtle issue with the `foreach` loop and the `next` statement. The script iterates through an array and skips a specific element, but it unexpectedly continues to the next iteration, instead of skipping it. The solution is also provided in a separate file.
